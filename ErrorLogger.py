@@ -1,3 +1,5 @@
+# Need to create an error.txt file as well!
+
 #Import datetime
 import datetime
 
